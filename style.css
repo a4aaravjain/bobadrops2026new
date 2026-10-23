@@ -1,1 +1,13 @@
+body {
+	text-align: center;
+	font-family: 'Arial';
+	background: purple;
+	color: white;
+}
+
+#boba-image{
+	width:500px;
+	border-radius:26%;
+}
+
 
